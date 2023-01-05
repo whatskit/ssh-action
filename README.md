@@ -1,9 +1,5 @@
 # 🚀 SSH for GitHub Actions
 
-[GitHub Action](https://github.com/features/actions) for executing remote ssh commands.
-
-![ssh workflow](./images/ssh-workflow.png)
-
 **Important**: Only support **Linux** [docker](https://www.docker.com/) container.
 
 ## Input variables
